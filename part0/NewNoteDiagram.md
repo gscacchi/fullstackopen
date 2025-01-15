@@ -1,4 +1,4 @@
-sequence Diagram
+sequenceDiagram
     participant browser
     participant server
 
